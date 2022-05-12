@@ -21,6 +21,9 @@
   * Auto revolver (So you don't have to tick the revolver, it'll just shoot)
   * Instant equip (Instantly equips your weapon)
   * Bullet Color (Gun has custom bullet color)
+  * Autoshoot (Automatically shoots gun for you whenever they're visible)
+  * Instant hit (Instantly makes the bullet hit the player - you need silent aim on)
+  * Always headshot (Always headshots the player even if the part isn't their head)
   * No bullet drop (Removes the drop on your gun)
 
 [Character]
