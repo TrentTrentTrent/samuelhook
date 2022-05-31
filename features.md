@@ -80,6 +80,9 @@
   * Anti barbwire (Doesn't let the barbwire do damage to you)
   * Autobuy lockpicks (Auto buys lockpicks when near dealer - bypasses the limit of 4)
   * Unlock near door (Unlocks the door near you)
+  * Antiaim (Makes it harder for aimbot/silent aim to hit you)
+  * Infinite pepperspray (Lets you spray the pepperspray infinitely)
+  * Auto claim allowance (Whenever near an ATM it'll claim your allowance if your not on cooldown)
   
 [Teleportation]
   * Dealer
@@ -100,6 +103,9 @@
   * Factory roof
   * Roof near pizza
   * Customizable TP (save pos)
+  * Autofarm (Teleports you to safes automatically for you, for it to be fully automatic turn on 'Auto break safe' and 'Auto pickup'
+  * Autofarm ATM (Teleports you to a protected location and whenever your allowance cooldown is up it'll teleport you to the atm and back)
+  * Teleport hit (Teleports you to the selected player and hits them and teleports back)
 
 # Combat Warriors
 
