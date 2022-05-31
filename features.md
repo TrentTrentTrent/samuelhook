@@ -51,8 +51,9 @@
   * Keep loot (Saves your loot - only out of combat)
   * No ragdoll (Removes the ragdolling from the game)
   * No fall damage (Removes fall damage from the game)
-  * Spin around (Lets you spin around like a beyblade)
+  * Melee god (Makes you take no damage from melee hits - unless they're crits/head hits)
   * Auto respawn (Auto respawns you after death)
+  * No mare blur (Mare no longer has blur whenever moving around)
   
 [Visuals]
   * Esp (Show boxes, names, tracers, distance, highlight, etc.)
