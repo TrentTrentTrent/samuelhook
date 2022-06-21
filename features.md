@@ -85,7 +85,7 @@
   * Infinite pepperspray (Lets you spray the pepperspray infinitely)
   * Auto claim allowance (Whenever near an ATM it'll claim your allowance if your not on cooldown)
   
-[Teleportation]
+[Teleportation] - Patched ATM (idk if it will be added back)
   * Dealer
   * Atm
   * Scrap
