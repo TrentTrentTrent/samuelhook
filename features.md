@@ -84,29 +84,7 @@
   * Antiaim (Makes it harder for aimbot/silent aim to hit you)
   * Infinite pepperspray (Lets you spray the pepperspray infinitely)
   * Auto claim allowance (Whenever near an ATM it'll claim your allowance if your not on cooldown)
-  
-[Teleportation] - Patched ATM (idk if it will be added back)
-  * Dealer
-  * Atm
-  * Scrap
-  * Safe
-  * Tools
-  * Grey Walls
-  * Hotel Room
-  * Blox Top Room
-  * Pizzeria Roof
-  * Pizzeria Inside
-  * Subway Inside
-  * Factory Inside
-  * Warehouse Inside
-  * Vibecheck Inside
-  * Tower top
-  * Factory roof
-  * Roof near pizza
-  * Customizable TP (save pos)
-  * Autofarm (Teleports you to safes automatically for you, for it to be fully automatic turn on 'Auto break safe' and 'Auto pickup'
-  * Autofarm ATM (Teleports you to a protected location and whenever your allowance cooldown is up it'll teleport you to the atm and back)
-  * Teleport hit (Teleports you to the selected player and hits them and teleports back)
+  * Break near atms (Will break near atms so nobody can withdraw/deposit)
 
 # Combat Warriors
 
