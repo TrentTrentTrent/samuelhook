@@ -170,3 +170,40 @@
     - Tallest mountain
     - Beach
  
+[Apoc 2]
+  
+  [Weapon tab]
+    - Silent aim
+    - Auto shoot
+    - Visibility check
+    - Whitelist friends
+    - Hitchance
+    - Fov settings (size, sides, transparency, etc.)
+    - Fast hit (will hit the player faster then your normal bullet speed)
+    - Hitbox selection
+    - Silent aim mode (rage or legit)
+
+  [Visuals tab]
+    - Player Esp (health, item, tracers, distance, etc.)
+    - Object esp (zombies, vehicles)
+  
+  [Character tab]
+    - Walkspeed (lets u walk fast, try not to have gun equipped for to long or u might get tp'd back)
+    - Anti zombie (stops zombies from charging you, if you get really close u can be hit)
+    - Jump power (lets u jump high)
+    - Always jump (lets u continue jumping)
+    - No fall damage (u take no falldamage)
+    - No jump cooldown (removes the cooldown until you press off space - turn on always jump to continue jumping after that)
+    - Zombie aura (kills near zombies, you mkust have a melee out)
+    - Equip in air (lets you shoot in the air)
+    - Equip in car (lets you equip and shoot in the car)
+    - Noclip (makes u go through walls)
+    - Antiaim (makes ur character harder to hit)
+    - Antiaim mode (manual, random, & glitched)
+
+  [Gun modifications]
+    - No recoil (makes ur gun have no recoil yes funny ok)
+    - No spread (makes ur gun have no spread)
+    - Unlock firemodes (lets you use all the firemodes)
+    - Firerate (modifies your guns firerate)
+    - Instant reload (reloads ur gun instantly)
