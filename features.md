@@ -198,6 +198,7 @@
   * Equip in air (lets you shoot in the air)
   * Equip in car (lets you equip and shoot in the car)
   * Noclip (makes u go through walls)
+  * Admin detector (kicks u upon an admin being detected)
   * Antiaim (makes ur character harder to hit)
   * Antiaim mode (manual, random, & glitched)
 
