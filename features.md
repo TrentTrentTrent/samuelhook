@@ -208,3 +208,6 @@
   * Unlock firemodes (lets you use all the firemodes)
   * Firerate (modifies your guns firerate)
   * Instant reload (reloads ur gun instantly)
+
+[Teleports] - might get patched soon
+  * Location teleports (should be all main locations, volcano, etc.)
