@@ -93,6 +93,7 @@
   * Visibility check
   * Silent aim mode ( Rage, Legit )
   * Killaura ( Automatically hits the closest player in the Aura Range you select )
+  * Infinite melee range ( Probably gonna be patched soon - but you can hit people from very far away )
   * Auto parry ( Automatically parries whenever the player swings in Parry Range )
   * Parry mode ( Rage, Legit )
   * Fake swing ( Tricks some auto parries )
