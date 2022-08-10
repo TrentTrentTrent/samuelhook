@@ -210,5 +210,10 @@
   * Firerate (modifies your guns firerate)
   * Instant reload (reloads ur gun instantly)
 
+[Miscellaneous]
+  * Respawn below health (it will instantly respawn u if ur below the health u select)
+  * Quick respawn (a button to instantly respawn)
+  * Head expander (expands players head hitbox to make it easier to hit)
+
 [Teleports] - might get patched soon
   * Location teleports (should be all main locations, volcano, etc.)
