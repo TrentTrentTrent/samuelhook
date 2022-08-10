@@ -217,3 +217,31 @@
 
 [Teleports] - might get patched soon
   * Location teleports (should be all main locations, volcano, etc.)
+
+# Those Who Remain
+
+[Combat]
+  * Killaura
+  * Kill all
+  * Hitsound/Buildsound selection
+
+[Misc]
+  * Auto ready
+  * Auto pickup
+  * Custom hitsounds
+  * Custom build sound (everyone can hear the sound)
+  * Thirdperson
+  * Field of view
+  * Walkspeed
+  * Jump power
+
+[Gun mods]
+  * No recoil
+  * Full reload (reloads ur whole mag for certain guns that dont)
+  * Instant reload
+  * Always automatic
+  * Instant equip
+  * Instant build
+
+[Visuals]
+  * Zombie esp (customizable)
