@@ -217,6 +217,9 @@
   * No sprint drain (makes it so you don't take sprint drainage)
   * Ac movement disabler (disables the whole movement anticheat so u can run fast asf)
   * Fly (lets you fly around like a jet)
+  * Fake dead (fake being dead, basically ur bait and can kill them whenever when they try to loot u)
+  * Interact all (interacts with all the objects within your rendered chunks so about 3000 studs, this is a troll feature and kinda laggy)
+  * Click teleport (teleports you to your mouse position upon clicking left click)
 
 [Teleports] - might get patched soon
   * Location teleports (should be all main locations, volcano, etc.)
