@@ -214,6 +214,9 @@
   * Respawn below health (it will instantly respawn u if ur below the health u select)
   * Quick respawn (a button to instantly respawn)
   * Head expander (expands players head hitbox to make it easier to hit)
+  * No sprint drain (makes it so you don't take sprint drainage)
+  * Ac movement disabler (disables the whole movement anticheat so u can run fast asf)
+  * Fly (lets you fly around like a jet)
 
 [Teleports] - might get patched soon
   * Location teleports (should be all main locations, volcano, etc.)
