@@ -60,6 +60,7 @@
   * Esp objects (ATMs, safes, scraps, & dealers)
   * Shell color (Lets you select the color of your shell)
   * Bullet hole color (Lets you select the color you want your bullet holes to be)
+  * Bullet beam (shoots out a cool beam)
   * Esp distance (So the objects aren't cluttering the player esp)
 
 [Chat settings]
@@ -94,10 +95,12 @@
   * Silent aim mode ( Rage, Legit )
   * Killaura ( Automatically hits the closest player in the Aura Range you select )
   * Auto parry ( Automatically parries whenever the player swings in Parry Range )
+  * Infinite melee range ( Lets killaura hit people from a very far distance )
   * Parry mode ( Rage, Legit )
   * Fake swing ( Tricks some auto parries )
-  * Auto finish ( Automatically finishes player in range that's downed )
+  * Auto glory ( Automatically finishes player in range that's downed )
   * Whitelist friends ( Makes it so all combat features don't affect people that are your friends on roblox )
+  * Anti head ( Removes your head on the server )
   * Head extender ( Expands the head hitbox of all players - makes it easier to hit them )
   * Range extender ( Kind of like a silent aim but for melees - makes it easier to hit them )
 
@@ -113,6 +116,7 @@
 
 [Visuals]
   * Esp (Show boxes, names, tracers, distance, highlight, etc.)
+  * Arrow beams ( Shows a cool beam whenever you fire )
 
 [Miscellaneous]
   * Revive self ( Not instant, revives yourself as soon as you're down )
@@ -132,6 +136,7 @@
   * Teleport behind enemy ( Teleports behind an enemy whenever close )
   * Instant bear trap ( Lets you place bear traps instantly )
   * Instant ghost potion ( Lets you drink ghost potions instantly )
+  * Reset on nuke/missle ( Will reset whenever a nuke/missle is called )
   
 [Miscellaneous 2]
   * Fast respawn ( Respawns you quicker then normally )
@@ -141,34 +146,13 @@
   * Unlock parry option ( Unlocks the parry option gamepass - not serverside )
   * Weird body ( Makes your body look weird )
   * Autoclaim airdrop ( Automatically claims an airdrop upon it being spawned )
-
-[Teleports]
-  * Cross road
-    - Beach
-    - Middle tower
-    - Mountain
-    - Hideout area
-    - Secret area
-    - Big wall
-  * Mortem Insula
-    - Top mountain
-    - Top castle
-    - Big bridge
-    - Little bridge
-    - Beach 1
-    - Beach 2
-    - Middle
-    - Top building
-    - Waterfall
-  * Outpost Island
-    - Mountain house
-    - Top mountain
-    - Top tower 1
-    - Top tower 2
-    - Boat dock
-    - Fire place
-    - Tallest mountain
-    - Beach
+  * Instant C4 ( Let's you instantly throw your C4 )
+  * Auto detonate ( Detonates your C4 immediately )
+  * Auto attach C4 ( Automatically attempts to attach ur C4 to a nearby player )
+  * Fly
+  * No knockback ( You don't take any knockback from grenades, etc.)
+  * No animations ( Makes it harder for people to parry you )
+  * Auto reload bow ( Automatically will reload your bow )
  
 # Apoc 2
   
@@ -213,19 +197,28 @@
   * Respawn below health (it will instantly respawn u if ur below the health u select)
   * Quick respawn (a button to instantly respawn)
   * Head expander (expands players head hitbox to make it easier to hit)
+  * Equip in water (lets u equip weapons in water)
   * No sprint drain (makes it so you don't take sprint drainage)
   * Ac movement disabler (disables the whole movement anticheat so u can run fast asf)
   * Fly (lets you fly around like a jet)
   * Fake dead (fake being dead, basically ur bait and can kill them whenever when they try to loot u)
   * Interact all (interacts with all the objects within your rendered chunks so about 3000 studs, this is a troll feature and kinda laggy)
   * Click teleport (teleports you to your mouse position upon clicking left click)
+  * Player aura (hits near players with ur melee)
+  * Instant interact (lets u instantly interact with objects)
+  * Spoof skin (NOT SERVERSIDE!! - lets you pick any skin you'd like from the weapon skin list)
+  * Unlock hair colors (unlocks gamepass hairs)
+  * Unlock all clothing (deletes ur clothing after u spawn in - mainly for trolling)
 
-[Teleports] - might get patched soon
+[Teleports] - might get patched soon (u must be pretty close)
   * Location teleports (should be all main locations, volcano, etc.)
+  * Player teleports
 
 # Those Who Remain
 
 [Combat]
+  * Silent aim (with options)
+  * Wallbang
   * Killaura
   * Kill all
   * Hitsound/Buildsound selection
@@ -247,6 +240,7 @@
   * Always automatic
   * Instant equip
   * Instant build
+  * Infinite ammo
 
 [Visuals]
   * Zombie esp (customizable)
