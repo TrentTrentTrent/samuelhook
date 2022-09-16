@@ -97,6 +97,7 @@
   * Auto parry ( Automatically parries whenever the player swings in Parry Range )
   * Infinite melee range ( Lets killaura hit people from a very far distance )
   * Parry mode ( Rage, Legit )
+  * Aura priority ( Closest, Lowest health)
   * Fake swing ( Tricks some auto parries )
   * Auto glory ( Automatically finishes player in range that's downed )
   * Whitelist friends ( Makes it so all combat features don't affect people that are your friends on roblox )
